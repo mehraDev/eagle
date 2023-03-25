@@ -62,4 +62,5 @@ module.exports = {
     test: 'readonly',
     expect: 'readonly',
   },
+  ignorePatterns: ['node_modules/', 'build/', 'public/'],
 };
